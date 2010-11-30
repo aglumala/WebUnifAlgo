@@ -1,0 +1,5 @@
+#Tue Nov 30 16:03:36 EAT 2010
+resourcehistory_graph_split=500,500
+eclipse.preferences.version=1
+resourcehistory_rev_split=700,300
+org.eclipse.egit.ui.githistorypage.showallfilter=SHOWALLREPO

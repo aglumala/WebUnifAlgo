@@ -1,0 +1,83 @@
+INFO main org.algorithm.impl.WSDLParser3 - Logging initialized.
+INFO main org.algorithm.impl.WSDLParser3 - Log4JExample - leaving the constructor ...
+INFO main org.algorithm.impl.WSDLParser3 - Logging initialized.
+INFO main org.algorithm.impl.WSDLParser3 - Log4JExample - leaving the constructor ...
+INFO main org.algorithm.impl.WSDLParser3 - Logging initialized.
+INFO main org.algorithm.impl.WSDLParser3 - Log4JExample - leaving the constructor ...
+INFO main org.algorithm.impl.WSDLParser3 - Logging initialized.
+INFO main org.algorithm.impl.WSDLParser3 - Log4JExample - leaving the constructor ...
+INFO main org.algorithm.impl.WSDLParser3 - Logging initialized.
+INFO main org.algorithm.impl.WSDLParser3 - Log4JExample - leaving the constructor ...
+INFO main org.algorithm.impl.WSDLParser3 - Logging initialized.
+INFO main org.algorithm.impl.WSDLParser3 - Log4JExample - leaving the constructor ...
+INFO main org.algorithm.impl.WSDLParser3 - Logging initialized.
+INFO main org.algorithm.impl.WSDLParser3 - Log4JExample - leaving the constructor ...
+INFO main org.algorithm.impl.WSDLParser3 - Logging initialized.
+INFO main org.algorithm.impl.WSDLParser3 - Log4JExample - leaving the constructor ...
+INFO main org.algorithm.impl.WSDLParser3 - Logging initialized.
+INFO main org.algorithm.impl.WSDLParser3 - Log4JExample - leaving the constructor ...
+INFO main org.algorithm.impl.WSDLParser3 - Logging initialized.
+INFO main org.algorithm.impl.WSDLParser3 - Log4JExample - leaving the constructor ...
+INFO main org.algorithm.impl.WSDLParser3 - Logging initialized.
+INFO main org.algorithm.impl.WSDLParser3 - Log4JExample - leaving the constructor ...
+INFO main org.algorithm.impl.WSDLParser3 - Logging initialized.
+INFO main org.algorithm.impl.WSDLParser3 - Log4JExample - leaving the constructor ...
+INFO main org.algorithm.impl.WSDLParser3 - Complex (searchForCar) Matched (searchForCar) From WSDL (C:\eclipseProjects\TypeEquivFinal\sampleFiles\TravelScenario2.xsd
+INFO main org.algorithm.impl.WSDLParser3 - Complex (contactInfo) Matched (contactInfo) From WSDL (C:\eclipseProjects\TypeEquivFinal\sampleFiles\TravelScenario2.xsd
+INFO main org.algorithm.impl.WSDLParser3 - Complex (searchForHotel) Matched (searchForHotel) From WSDL (C:\eclipseProjects\TypeEquivFinal\sampleFiles\TravelScenario2.xsd
+INFO main org.algorithm.impl.WSDLParser3 - Complex (searchForFlight) Matched (searchForFlight) From WSDL (C:\eclipseProjects\TypeEquivFinal\sampleFiles\TravelScenario2.xsd
+INFO main org.algorithm.impl.WSDLParser3 - Complex (roomInfo) Matched (roomInfo) From WSDL (C:\eclipseProjects\TypeEquivFinal\sampleFiles\TravelScenario2.xsd
+INFO main org.algorithm.impl.WSDLParser3 - Complex (bookFlight) Matched (bookFlight) From WSDL (C:\eclipseProjects\TypeEquivFinal\sampleFiles\TravelScenario2.xsd
+INFO main org.algorithm.impl.WSDLParser3 - Complex (findDistance) Matched (findDistance) From WSDL (C:\eclipseProjects\TypeEquivFinal\sampleFiles\TravelScenario2.xsd
+INFO main org.algorithm.impl.WSDLParser3 - Complex (findDistance) Matched (testOrganisation) From WSDL (C:\eclipseProjects\TypeEquivFinal\sampleFiles\TravelScenario2.xsd
+INFO main org.algorithm.impl.WSDLParser3 - Complex (testOrganisation) Matched (findDistance) From WSDL (C:\eclipseProjects\TypeEquivFinal\sampleFiles\TravelScenario2.xsd
+INFO main org.algorithm.impl.WSDLParser3 - Complex (testOrganisation) Matched (testOrganisation) From WSDL (C:\eclipseProjects\TypeEquivFinal\sampleFiles\TravelScenario2.xsd
+INFO main org.algorithm.impl.WSDLParser3 - Complex (rentCar) Matched (rentCar) From WSDL (C:\eclipseProjects\TypeEquivFinal\sampleFiles\TravelScenario2.xsd
+INFO main org.algorithm.impl.WSDLParser3 - Logging initialized.
+INFO main org.algorithm.impl.WSDLParser3 - Log4JExample - leaving the constructor ...
+INFO main org.algorithm.impl.WSDLParser3 - Logging initialized.
+INFO main org.algorithm.impl.WSDLParser3 - Log4JExample - leaving the constructor ...
+INFO main org.algorithm.impl.WSDLParser3 - Logging initialized.
+INFO main org.algorithm.impl.WSDLParser3 - Log4JExample - leaving the constructor ...
+INFO main org.algorithm.impl.WSDLParser3 - Logging initialized.
+INFO main org.algorithm.impl.WSDLParser3 - Log4JExample - leaving the constructor ...
+INFO main org.algorithm.impl.WSDLParser3 - Logging initialized.
+INFO main org.algorithm.impl.WSDLParser3 - Log4JExample - leaving the constructor ...
+INFO main org.algorithm.impl.WSDLParser3 - Logging initialized.
+INFO main org.algorithm.impl.WSDLParser3 - Log4JExample - leaving the constructor ...
+INFO main org.algorithm.impl.WSDLParser3 - Complex (findDistance) Matched (validateUser) From WSDL (C:\eclipseProjects\TypeEquivFinal\sampleFiles\benchMarkTackerXMLSchema.xsd
+INFO main org.algorithm.impl.WSDLParser3 - Complex (findDistance) Matched (LevelInfo) From WSDL (C:\eclipseProjects\TypeEquivFinal\sampleFiles\benchMarkTackerXMLSchema.xsd
+INFO main org.algorithm.impl.WSDLParser3 - Complex (findDistance) Matched (dataObject) From WSDL (C:\eclipseProjects\TypeEquivFinal\sampleFiles\benchMarkTackerXMLSchema.xsd
+INFO main org.algorithm.impl.WSDLParser3 - Complex (testOrganisation) Matched (validateUser) From WSDL (C:\eclipseProjects\TypeEquivFinal\sampleFiles\benchMarkTackerXMLSchema.xsd
+INFO main org.algorithm.impl.WSDLParser3 - Complex (testOrganisation) Matched (LevelInfo) From WSDL (C:\eclipseProjects\TypeEquivFinal\sampleFiles\benchMarkTackerXMLSchema.xsd
+INFO main org.algorithm.impl.WSDLParser3 - Complex (testOrganisation) Matched (dataObject) From WSDL (C:\eclipseProjects\TypeEquivFinal\sampleFiles\benchMarkTackerXMLSchema.xsd
+INFO main org.algorithm.impl.WSDLParser3 - Logging initialized.
+INFO main org.algorithm.impl.WSDLParser3 - Log4JExample - leaving the constructor ...
+INFO main org.algorithm.impl.WSDLParser3 - Complex (findDistance) Matched (validateUser) From WSDL (C:\eclipseProjects\TypeEquivFinal\sampleFiles\benchMarkTackerXMLSchema.xsd
+INFO main org.algorithm.impl.WSDLParser3 - Complex (findDistance) Matched (LevelInfo) From WSDL (C:\eclipseProjects\TypeEquivFinal\sampleFiles\benchMarkTackerXMLSchema.xsd
+INFO main org.algorithm.impl.WSDLParser3 - Complex (findDistance) Matched (dataObject) From WSDL (C:\eclipseProjects\TypeEquivFinal\sampleFiles\benchMarkTackerXMLSchema.xsd
+INFO main org.algorithm.impl.WSDLParser3 - Complex (testOrganisation) Matched (validateUser) From WSDL (C:\eclipseProjects\TypeEquivFinal\sampleFiles\benchMarkTackerXMLSchema.xsd
+INFO main org.algorithm.impl.WSDLParser3 - Complex (testOrganisation) Matched (LevelInfo) From WSDL (C:\eclipseProjects\TypeEquivFinal\sampleFiles\benchMarkTackerXMLSchema.xsd
+INFO main org.algorithm.impl.WSDLParser3 - Complex (testOrganisation) Matched (dataObject) From WSDL (C:\eclipseProjects\TypeEquivFinal\sampleFiles\benchMarkTackerXMLSchema.xsd
+INFO main org.algorithm.impl.WSDLParser3 - Logging initialized.
+INFO main org.algorithm.impl.WSDLParser3 - Log4JExample - leaving the constructor ...
+INFO main org.algorithm.impl.WSDLParser3 - Complex (findDistance) Matched (validateUser) From WSDL (C:\eclipseProjects\TypeEquivFinal\sampleFiles\benchMarkTackerXMLSchema.xsd
+INFO main org.algorithm.impl.WSDLParser3 - Complex (findDistance) Matched (LevelInfo) From WSDL (C:\eclipseProjects\TypeEquivFinal\sampleFiles\benchMarkTackerXMLSchema.xsd
+INFO main org.algorithm.impl.WSDLParser3 - Complex (findDistance) Matched (dataObject) From WSDL (C:\eclipseProjects\TypeEquivFinal\sampleFiles\benchMarkTackerXMLSchema.xsd
+INFO main org.algorithm.impl.WSDLParser3 - Complex (testOrganisation) Matched (validateUser) From WSDL (C:\eclipseProjects\TypeEquivFinal\sampleFiles\benchMarkTackerXMLSchema.xsd
+INFO main org.algorithm.impl.WSDLParser3 - Complex (testOrganisation) Matched (LevelInfo) From WSDL (C:\eclipseProjects\TypeEquivFinal\sampleFiles\benchMarkTackerXMLSchema.xsd
+INFO main org.algorithm.impl.WSDLParser3 - Complex (testOrganisation) Matched (dataObject) From WSDL (C:\eclipseProjects\TypeEquivFinal\sampleFiles\benchMarkTackerXMLSchema.xsd
+INFO main org.algorithm.impl.WSDLParser3 - Logging initialized.
+INFO main org.algorithm.impl.WSDLParser3 - Log4JExample - leaving the constructor ...
+INFO main org.algorithm.impl.WSDLParser3 - Logging initialized.
+INFO main org.algorithm.impl.WSDLParser3 - Log4JExample - leaving the constructor ...
+INFO main org.algorithm.impl.WSDLParser3 - Logging initialized.
+INFO main org.algorithm.impl.WSDLParser3 - Log4JExample - leaving the constructor ...
+INFO main org.algorithm.impl.WSDLParser3 - Complex (findDistance) Matched (validateUser) From WSDL (C:\eclipseProjects\TypeEquivFinal\sampleFiles\benchMarkTackerXMLSchema.xsd
+INFO main org.algorithm.impl.WSDLParser3 - Complex (findDistance) Matched (LevelInfo) From WSDL (C:\eclipseProjects\TypeEquivFinal\sampleFiles\benchMarkTackerXMLSchema.xsd
+INFO main org.algorithm.impl.WSDLParser3 - Complex (findDistance) Matched (dataObject) From WSDL (C:\eclipseProjects\TypeEquivFinal\sampleFiles\benchMarkTackerXMLSchema.xsd
+INFO main org.algorithm.impl.WSDLParser3 - Complex (testOrganisation) Matched (validateUser) From WSDL (C:\eclipseProjects\TypeEquivFinal\sampleFiles\benchMarkTackerXMLSchema.xsd
+INFO main org.algorithm.impl.WSDLParser3 - Complex (testOrganisation) Matched (LevelInfo) From WSDL (C:\eclipseProjects\TypeEquivFinal\sampleFiles\benchMarkTackerXMLSchema.xsd
+INFO main org.algorithm.impl.WSDLParser3 - Complex (testOrganisation) Matched (dataObject) From WSDL (C:\eclipseProjects\TypeEquivFinal\sampleFiles\benchMarkTackerXMLSchema.xsd
+INFO main org.algorithm.impl.WSDLParser3 - Logging initialized.
+INFO main org.algorithm.impl.WSDLParser3 - Log4JExample - leaving the constructor ...

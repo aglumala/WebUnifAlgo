@@ -1,0 +1,6 @@
+INDEX VERSION 1.122+/home/lumala/Desktop/WebUnifAlgo/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2169581282.index
+4230162294.index
+2893204372.index
+754594977.index
+3729458145.index
